@@ -1,0 +1,36 @@
+.cub1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(179, 107, 247);
+  border-radius: 10%;
+  float: left;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  border: 2px solid black;
+  /* ou margin tout simple */
+}
+
+.cub2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(191, 237, 203);
+  border-radius: 10%;
+  float: left;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  border: 2px solid black;
+}
+
+.retour {
+  clear: both;
+}
+p {
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
